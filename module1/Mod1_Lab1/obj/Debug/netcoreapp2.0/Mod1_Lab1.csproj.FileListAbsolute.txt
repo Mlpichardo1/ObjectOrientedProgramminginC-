@@ -1,0 +1,11 @@
+/Users/jennypichardo/Desktop/visProjects/edx/OOPinC/Mod1_Lab1/bin/Debug/netcoreapp2.0/Mod1_Lab1.deps.json
+/Users/jennypichardo/Desktop/visProjects/edx/OOPinC/Mod1_Lab1/bin/Debug/netcoreapp2.0/Mod1_Lab1.runtimeconfig.json
+/Users/jennypichardo/Desktop/visProjects/edx/OOPinC/Mod1_Lab1/bin/Debug/netcoreapp2.0/Mod1_Lab1.runtimeconfig.dev.json
+/Users/jennypichardo/Desktop/visProjects/edx/OOPinC/Mod1_Lab1/bin/Debug/netcoreapp2.0/Mod1_Lab1.dll
+/Users/jennypichardo/Desktop/visProjects/edx/OOPinC/Mod1_Lab1/bin/Debug/netcoreapp2.0/Mod1_Lab1.pdb
+/Users/jennypichardo/Desktop/visProjects/edx/OOPinC/Mod1_Lab1/obj/Debug/netcoreapp2.0/Mod1_Lab1.csprojAssemblyReference.cache
+/Users/jennypichardo/Desktop/visProjects/edx/OOPinC/Mod1_Lab1/obj/Debug/netcoreapp2.0/Mod1_Lab1.csproj.CoreCompileInputs.cache
+/Users/jennypichardo/Desktop/visProjects/edx/OOPinC/Mod1_Lab1/obj/Debug/netcoreapp2.0/Mod1_Lab1.AssemblyInfoInputs.cache
+/Users/jennypichardo/Desktop/visProjects/edx/OOPinC/Mod1_Lab1/obj/Debug/netcoreapp2.0/Mod1_Lab1.AssemblyInfo.cs
+/Users/jennypichardo/Desktop/visProjects/edx/OOPinC/Mod1_Lab1/obj/Debug/netcoreapp2.0/Mod1_Lab1.dll
+/Users/jennypichardo/Desktop/visProjects/edx/OOPinC/Mod1_Lab1/obj/Debug/netcoreapp2.0/Mod1_Lab1.pdb
