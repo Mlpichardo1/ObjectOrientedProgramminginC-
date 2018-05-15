@@ -30,3 +30,30 @@ public class DrinksMachine
    // The following statement defines an event. The delegate definition is not shown.
    public event OutOfBeansHandler OutOfBeans;
 }
+
+// PARTIAL CLASSES
+public partial class DrinksMachine
+{
+
+   public void MakeCappuccino()
+   {
+      // Method logic goes here.
+   }
+}
+
+public partial class DrinksMachine
+{
+
+   public void MakeEspresso()
+   {
+      // Method logic goes here.
+   }
+}
+
+// Instantiating classes
+// Using Object Members
+var dm = new DrinksMachine();
+dm.Make = "Fourth Coffee";
+dm.Model = "Beancrusher 3000";
+dm.Age = 2;
+dm.MakeEspresso();
