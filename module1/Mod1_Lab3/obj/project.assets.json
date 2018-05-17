@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/jennypichardo/.nuget/packages/": {},
+    "/Users/chicky/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jennypichardo/Desktop/visProjects/edx/OOPinC/module1/Mod1_Lab3/Mod1_Lab3.csproj",
+      "projectUniqueName": "/Users/chicky/Documents/Csharp/ObjectOrientedProgramminginC-/module1/Mod1_Lab3/Mod1_Lab3.csproj",
       "projectName": "Mod1_Lab3",
-      "projectPath": "/Users/jennypichardo/Desktop/visProjects/edx/OOPinC/module1/Mod1_Lab3/Mod1_Lab3.csproj",
-      "packagesPath": "/Users/jennypichardo/.nuget/packages/",
-      "outputPath": "/Users/jennypichardo/Desktop/visProjects/edx/OOPinC/module1/Mod1_Lab3/obj/",
+      "projectPath": "/Users/chicky/Documents/Csharp/ObjectOrientedProgramminginC-/module1/Mod1_Lab3/Mod1_Lab3.csproj",
+      "packagesPath": "/Users/chicky/.nuget/packages/",
+      "outputPath": "/Users/chicky/Documents/Csharp/ObjectOrientedProgramminginC-/module1/Mod1_Lab3/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/jennypichardo/.nuget/NuGet/NuGet.Config"
+        "/Users/chicky/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"

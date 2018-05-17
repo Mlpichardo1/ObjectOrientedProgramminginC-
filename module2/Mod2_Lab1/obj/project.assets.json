@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/chicky/Documents/Csharp/ObjectOrientedProgramminginC-/module1/Mod1_Lab2/Mod1_Lab2.csproj",
-      "projectName": "Mod1_Lab2",
-      "projectPath": "/Users/chicky/Documents/Csharp/ObjectOrientedProgramminginC-/module1/Mod1_Lab2/Mod1_Lab2.csproj",
+      "projectUniqueName": "/Users/chicky/Documents/Csharp/ObjectOrientedProgramminginC-/module2/Mod2_Lab1/Mod2_Lab1.csproj",
+      "projectName": "Mod2_Lab1",
+      "projectPath": "/Users/chicky/Documents/Csharp/ObjectOrientedProgramminginC-/module2/Mod2_Lab1/Mod2_Lab1.csproj",
       "packagesPath": "/Users/chicky/.nuget/packages/",
-      "outputPath": "/Users/chicky/Documents/Csharp/ObjectOrientedProgramminginC-/module1/Mod1_Lab2/obj/",
+      "outputPath": "/Users/chicky/Documents/Csharp/ObjectOrientedProgramminginC-/module2/Mod2_Lab1/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
